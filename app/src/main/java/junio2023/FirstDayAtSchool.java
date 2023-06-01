@@ -51,7 +51,7 @@ public class FirstDayAtSchool {
      */
 	public void cleanMyBag() {
 		schoolbag.clear();
-        prepareMyBag();
+        //prepareMyBag();
 	}
 
 	public String toString() {
